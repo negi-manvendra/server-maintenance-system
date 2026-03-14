@@ -1,0 +1,8 @@
+logs/*
+reports/*
+backups/*
+*.tar.gz
+
+!logs/.gitkeep
+!reports/.gitkeep
+!backups/.gitkeep
